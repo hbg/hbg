@@ -1,14 +1,12 @@
 **👋 Hey, I'm Harris!**
 
-🎓 Caltech Alum | 🧠 AI + Experimentation 
-💼 SWE @ DoorDash (Experimentation Platform) | Prev: 2x SWE Intern @ DoorDash  
-📍 Based in California | 🤖 Passionate about real-world AI, especially in healthcare
+I'm currently a SWE at DoorDash, but previously attended Caltech 🎓 for undergrad, interned at DoorDash, was a Kleiner Perkins Fellow, and did research at Stanford. Oh, and I love to build - I've been doing that for a few years now! At DoorDash, our experimentation platform powers over **100 Trillion events** per month.
 
 ---
 
 ## 🛠️ What I’m Working On
 - 🧬 Building AI-powered tools with real-world impact  
-- 🧪 Exploring physics-driven & self-supervised methods for robust medical imaging  
+- 🧪 Applying computer science to issues in medicine  
 - ⚙️ Scaling experimentation infra across web, mobile, and internal platforms  
 - 🛠️ Sharpening my skills in research engineering and full-stack ML systems
 
