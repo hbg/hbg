@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Harris!
+# 👋 hey, I'm Harris!
 
 🎓 CS @ Caltech alum | 🧠 ML Engineer | 🧪 Former Stanford researcher  
 💼 SWE @ DoorDash (Experimentation Platform) | Prev: 2x SWE Intern @ DoorDash  
